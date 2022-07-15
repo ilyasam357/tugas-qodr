@@ -1,0 +1,28 @@
+@font-face {
+    font-family: ExtraLight;
+    src: url(../asset/font/PlusJakartaSans-ExtraLight.ttf);
+}
+@font-face {
+    font-family: Regular;
+    src: url(../asset/font/PlusJakartaSans-Regular.ttf);
+}
+.text-font1 {
+    font-family: ExtraLight;
+}
+.text-font2 {
+    font-family: Regular;
+}
+
+.text-color1 {
+    color: #212322;
+}
+.bg-color1 {
+    color: #f9f9f9;
+}
+.text-color2 {
+    color: #808080;
+}
+
+.text-color3 {
+    color: #00b140;
+}
