@@ -1317,7 +1317,7 @@
     }
 }
 
-@media (max-width: 321px) {
+@media (max-width: 421px) {
     .menu-toggle {
         display: block;
         /* padding-left: 99px; */
@@ -1338,6 +1338,7 @@
         width: 320px;
         height: 509px;
         margin-top: 20px;
+        margin-left: 12px;
     }
     #main .col-1 ul li {
         margin: 3px;
