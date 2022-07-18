@@ -8,7 +8,7 @@ const menu_x = document.querySelector(".menu-x");
 menu_toggle.addEventListener("click", () => {
     menu_toggle.classList.toggle("is-active");
     sidebar.classList.toggle("is-active");
-    // menu_x.classList.toggle("is-active");
+    menu_x.classList.toggle("close");
 });
 
 // for drop down calendar

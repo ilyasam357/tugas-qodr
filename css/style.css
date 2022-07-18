@@ -431,6 +431,8 @@
         height: 100vh;
         width: 100%;
         max-width: 300px;
+        transform: translate(-150%);
+        right: 0;
     }
     .sidebar h3 {
         margin-left: 41px;
@@ -457,7 +459,8 @@
     }
 
     .sidebar.is-active {
-        left: 0;
+        transform: translate(150%);
+        right: 0;
     }
     .content > nav {
         padding: 22px 56px;
@@ -725,7 +728,7 @@
         /* margin-right: 123px; */
         padding-bottom: 53px;
     }
-   
+
     .content nav {
         /* padding: 3rem; */
         width: 100%;
@@ -1279,7 +1282,7 @@
         padding-left: 27px;
         /* margin-right: 623px; */
     }
-   
+
     .content nav {
         /* padding: 3rem; */
         width: 100%;
