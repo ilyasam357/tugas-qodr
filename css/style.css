@@ -449,7 +449,7 @@
         font-size: 32px;
         color: #ffffff;
     }
-    .sidebar #mobile > img {
+    .sidebar #mobile > span {
         position: absolute;
         padding-left: 105px;
         margin-top: 7px;
@@ -725,9 +725,7 @@
         /* margin-right: 123px; */
         padding-bottom: 53px;
     }
-    body {
-        width: 360px;
-    }
+   
     .content nav {
         /* padding: 3rem; */
         width: 100%;
@@ -1281,9 +1279,7 @@
         padding-left: 27px;
         /* margin-right: 623px; */
     }
-    body {
-        width: 260px;
-    }
+   
     .content nav {
         /* padding: 3rem; */
         width: 100%;
